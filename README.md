@@ -10,7 +10,7 @@ Freelancer<br>-<br>-<br>DevOps<br>Anything<br>Learn From Scratch<br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zakygz651&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zakygz651&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zakygz651&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RasstCrypt&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zakygz651&theme=radical&no-frame=false&no-bg=true&margin-w=4)
